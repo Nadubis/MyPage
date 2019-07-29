@@ -25,7 +25,8 @@ span{
 }
 
 .topc{
-  background-color: #e3fdfd;
+  background-color: #b2fcff;
+  width: 120pc;
 }
 .middelc{
   background-color: #cbf1f5;
@@ -37,20 +38,22 @@ span{
 .mount{
   position:relative;
   left: 25pc;
-  bottom: 50px;
+  bottom: 0px;
   width: 55pc;
   height: 37pc;
 }
 .cl{
   position: relative;
-  top: 426px;
-  left:1123px;
-  width:225px;
+  top: 25pc;
+  left:75pc;
+  width:135px;
 }
 .cl1{
   position: relative;
-  left: 514px;
-  bottom: 371px;
+  left: 39pc;
+  bottom: 25pc;
+  width: 145px;
+  height: 45px;
 }
 .raul{
   position:absolute;
