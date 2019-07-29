@@ -1,0 +1,61 @@
+body{
+  margin: 0px;
+}
+h1{
+  margin-top: 0px;
+  margin-left: 40pc;
+  font-family: cursive;
+  font-size: 80px;
+  color: #525252;
+}
+span{
+  color:#525252;
+  font-family: cursive;
+  font-size: 55px;
+  font-style: italic;
+  position: relative;
+  left: 45pc;
+}
+.sp1{
+  color:#525252;
+  font-family: cursive;
+  font-size: 20px;
+  position: relative;
+  left: 50pc;
+}
+
+.topc{
+  background-color: #e3fdfd;
+}
+.middelc{
+  background-color: #cbf1f5;
+}
+.bottomc{
+  background-color: #abedd8;
+
+}
+.mount{
+  position:relative;
+  left: 25pc;
+  bottom: 50px;
+  width: 55pc;
+  height: 37pc;
+}
+.cl{
+  position: relative;
+  top: 426px;
+  left:1123px;
+  width:225px;
+}
+.cl1{
+  position: relative;
+  left: 514px;
+  bottom: 371px;
+}
+.raul{
+  position:absolute;
+  left: 249px;
+  top:55px;
+  border-radius: 100px;
+
+}
